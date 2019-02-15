@@ -6,7 +6,6 @@
   "main": "lib/index.js",
   "repository": {
     "type": "nodejs",
-    "url": "git@192.168.1.66:FE/parrot.git"
   },
   "scripts": {
     "start": "npx tsc"
