@@ -1,0 +1,20 @@
+{
+  "name": "@dwd/babel-plugin-lodash",
+  "version": "0.0.1",
+  "author": "HUHU",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "nodejs",
+    "url": "git@192.168.1.66:FE/parrot.git"
+  },
+  "scripts": {
+    "start": "npx tsc"
+  },
+  "dependencies": {
+    "@types/babel-types": "^7.0.5",
+    "@types/node": "^10.5.2",
+    "babel-types": "^6.26.0",
+    "typescript": "^2.9.2"
+  }
+}
