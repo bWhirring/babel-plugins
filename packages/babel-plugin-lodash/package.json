@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "repository": {
-    "type": "nodejs",
+    "type": "nodejs"
   },
   "scripts": {
     "start": "npx tsc"
