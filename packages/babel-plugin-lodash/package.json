@@ -1,6 +1,6 @@
 {
   "name": "@dwd/babel-plugin-lodash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "HUHU",
   "license": "MIT",
   "main": "lib/index.js",
