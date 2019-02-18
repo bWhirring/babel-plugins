@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var t = require("babel-types");
+var t = require("@babel/types");
 var visitor = {
     ImportDeclaration: function (path) {
         var _a = path.node, specifiers = _a.specifiers, source = _a.source;
